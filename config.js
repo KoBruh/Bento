@@ -54,11 +54,11 @@ const CONFIG = {
 		{
 			id: '1',
 			name: 'Mail',
-			icon: 'mail',
+			icon: 'mails',
 			link: 'https://gmail.com',
 		},
 		{
-			id: '26',
+			id: '2',
 			name: 'Youtube',
 			icon: 'youtube',
 			link: 'https://youtube.com',
