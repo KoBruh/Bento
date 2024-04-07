@@ -135,20 +135,20 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'globe-lock',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Modrinth',
+					link: 'https://modrinth.com/mods',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Bento Editing',
+					link: 'https://github.com/KoBruh/Bento',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'CS.RIN',
+					link: 'https://cs.rin.ru/forum/',
 				},
 				{
 					name: 'Rock',
