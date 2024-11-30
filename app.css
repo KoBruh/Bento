@@ -28,8 +28,8 @@
   /* Image background  */
   --imgbg: url(assets/green.jpg); /* Image URL */
   --imgcol: linear-gradient(
-    rgba(255, 255, 255, 0.1),
-    rgba(255, 255, 255, 0.1)
+    rgba(255, 255, 255, 0.15),
+    rgba(255, 255, 255, 0.15)
   ); /* Filter color */
 }
 
@@ -46,8 +46,8 @@
   /* Image background  */
   --imgbg: url(assets/green.jpg); /* Image URL */
   --imgcol: linear-gradient(
-    rgba(0, 0, 0, 0.1),
-    rgba(0, 0, 0, 0.1)
+    rgba(0, 0, 0, 0.15),
+    rgba(0, 0, 0, 0.15)
   ); /* Filter color */
 }
 
